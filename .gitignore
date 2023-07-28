@@ -120,7 +120,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+# .env
 .venv
 env/
 venv/
@@ -161,3 +161,4 @@ cython_debug/
 
 .vscode
 .check_service_token
+.env_test
